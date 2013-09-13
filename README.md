@@ -22,6 +22,7 @@ user=> (decrypt "Lzn" "super-secret-salt")
 134
 user=> (encrypt 225 "super-secret-salt")
 "7jR"
+```
 
 ## Contributions
 
