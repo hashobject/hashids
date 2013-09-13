@@ -1,4 +1,4 @@
-(defproject hashobject/hashids "0.1.0"
+(defproject hashobject/hashids "0.2.0"
   :description "Clojure wrapper for Hashids"
   :signing {:gpg-key "Hashobject Ltd <team@hashobject.com>"}
   :url "https://github.com/hashobject/hashids"

@@ -8,7 +8,7 @@ A Clojure wrapper library for [Hashids](http://www.hashids.org/java/).
 ## Install
 
 ```
-[hashids "0.1.0"]
+[hashobject/hashids "0.1.0"]
 ```
 
 ## Usage
