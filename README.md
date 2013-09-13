@@ -5,6 +5,24 @@ A Clojure wrapper library for [Hashids](http://www.hashids.org/java/).
 ![Build Status](https://travis-ci.org/hashobject/hashids.png)](https://travis-ci.org/hashobject/hashids)
 
 
+## Install
+
+```
+[hashids "0.1.0"]
+```
+
+## Usage
+
+```
+user=> (use 'hashids.core)
+nil
+user=> (encrypt 134 "super-secret-salt")
+"Lzn"
+user=> (decrypt "Lzn" "super-secret-salt")
+134
+user=> (encrypt 225 "super-secret-salt")
+"7jR"
+
 ## Contributions
 
 We love contributions. Please submit your pull requests.
