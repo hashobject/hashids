@@ -2,8 +2,8 @@
 
 A Clojure wrapper library for [Hashids](http://www.hashids.org/java/).
 
-[![Build Status](https://travis-ci.org/hashobject/hashids.png)](https://travis-ci.org/hashobject/hashids)
-[![Dependencies Status](http://jarkeeper.com/hashobject/hashids/status.png)](http://jarkeeper.com/hashobject/hashids)
+[![Build Status](https://travis-ci.org/hashobject/hashids.svg)](https://travis-ci.org/hashobject/hashids)
+[![Dependencies Status](http://jarkeeper.com/hashobject/hashids/status.svg)](http://jarkeeper.com/hashobject/hashids)
 
 
 ## Install
